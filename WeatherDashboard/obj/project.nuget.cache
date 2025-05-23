@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cUcmCr9vD54=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jake8\\source\\repos\\WeatherDashboard\\WeatherDashboard\\WeatherDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jake8\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\jake8\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\jake8\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\jake8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
